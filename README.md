@@ -1,13 +1,16 @@
 ### Hi there, I'm Luderas! 👋
 
-⚡ Austrian Web developer.  
+⚡ Austrian developer.  
+<!--
 🤖 Creator of [SYMY](https://symy.netlify.app/) Discord bot.  
+-->
 
 ![Luderas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luderas&count_private=true&show_icons=true&theme=tokyonight&border_radius=10px)
 
-## Contact me 💼
+## [Contact me](mailto://lukas.kritsotakis@gmail.com)💼
 
 **My website:** *https://Luderas.ml*  
+**My Cydia repo:** *https://repo.Luderas.ml*  
 **On Discord:** *[Luderas#1397](https://dsc.bio/luderas)*
 
 
