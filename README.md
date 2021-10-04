@@ -10,7 +10,9 @@
 ## [Contact me](mailto:lukas.kritsotakis@gmail.com) 💼
 
 **My website:** *[Luderas.ml](https://Luderas.ml)*
+
 **My Cydia repo:** *[repo.Luderas.ml](https://repo.Luderas.ml)*
+
 **On Discord:** *[Luderas#1397](https://discordapp.com/users/411650776159617025)*
 
 
