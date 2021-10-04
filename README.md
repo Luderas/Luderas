@@ -7,7 +7,7 @@
 
 ![Luderas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luderas&count_private=true&show_icons=true&theme=tokyonight&border_radius=10px)
 
-## [Contact me](mailto://lukas.kritsotakis@gmail.com)💼
+## [Contact me](mailto:lukas.kritsotakis@gmail.com) 💼
 
 **My website:** *https://Luderas.ml*  
 **My Cydia repo:** *https://repo.Luderas.ml*  
