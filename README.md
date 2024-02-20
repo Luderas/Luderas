@@ -9,19 +9,15 @@
 
 ## [Contact me](mailto:lukas.kritsotakis@gmail.com) 💼
 
-**My website:** *[Luderas.ml](https://Luderas.ml)*
-
+**My website:** *[Luderas.com](https://Luderas.com)*
+<!--
 **My Cydia repo:** *[repo.Luderas.ml](https://repo.Luderas.ml)*
-
+-->
 **On Discord:** *[Luderas#1397](https://discordapp.com/users/411650776159617025)*
 
 
+- 🔭 I’m currently working on *[Blocify.com](https://blocify.luderas.com)*
 <!--
-**luderas/luderas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
