@@ -16,7 +16,7 @@
 **On Discord:** *[Luderas#1397](https://discordapp.com/users/411650776159617025)*
 
 
-- 🔭 I’m currently working on *[Blocify.com](https://blocify.luderas.com)*
+- 🔭 I’m currently working on *[Tastaxo](https://tastaxo.com)*
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
