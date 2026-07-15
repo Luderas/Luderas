@@ -5,9 +5,9 @@
 🤖 Creator of [SYMY](https://symy.netlify.app/) Discord bot.  
 -->
 
-![Luderas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luderas&count_private=true&show_icons=true&theme=tokyonight&border_radius=20px)
+![Luderas's GitHub stats](https://github-stats-extended.vercel.app/api?username=Luderas&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_red)
 
-## [Contact me](mailto:lukas.kritsotakis@gmail.com) 💼
+## [Contact me](mailto:lukas@luderas.com) 💼
 
 **My website:** *[Luderas.com](https://Luderas.com)*
 <!--
